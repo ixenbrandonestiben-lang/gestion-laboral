@@ -358,3 +358,7 @@ npm test
 3. **Puntaje mínimo garantizado (0):** cuando las penalizaciones superarían los puntos positivos.
 4. **Mapeo correcto de prioridad** para todos los rangos (`LOW`, `MEDIUM`, `HIGH`, `TOP`).
 5. **Detección case-insensitive** de palabras clave en la carta.
+
+<div>
+  <a href = "https://chat.qwen.ai/s/eb54a2e6-b5bd-4c8b-8aaf-3664551217cf?fev=0.3.12"> Link Chat Qwen
+</div>
